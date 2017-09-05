@@ -14,3 +14,6 @@ TODO List
   1. Build the apm interface.
   2. Provide a higher level of the API.
   3. Provide a VoIP demo to show how to use this API instead of doing AECM on PCM files.
+Note 20170905
+Delaytime is different between different devices and situations
+When call aecm,pay attention to the format of the audio data you r using.
